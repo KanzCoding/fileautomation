@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Define source and destination directories
-from_dir = "/Users/kanis/Downloads/documentarys/importantdocs"
-to_dir = "/Users/kanis/OneDrive/Desktop/Document_Files"
+from_dir = "set path in form of /"
+to_dir = "set path in form of /"
 
 # List all files in the source directory
 list_of_files = os.listdir(from_dir)
